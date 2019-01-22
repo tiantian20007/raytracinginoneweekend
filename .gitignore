@@ -1,0 +1,10 @@
+Debug/
+enc_temp_folder/
+
+*.VC.db
+*.VC.VC.opendb
+*.suo
+*.ipch
+
+*.vcxproj.filters
+*.bak

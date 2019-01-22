@@ -14,6 +14,8 @@
 
 #include "ray.h"
 
+#define M_PI 3.1415926
+
 vec3 random_in_unit_disk() {
     vec3 p;
     do {
